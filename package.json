@@ -1,0 +1,19 @@
+{
+  "name": "moo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "geolib": "^3.3.3",
+    "lodash.clonedeep": "^4.5.0"
+  }
+}
